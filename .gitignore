@@ -1,0 +1,7 @@
+Data/
+data/
+__pycache__/
+*.keras
+!models/
+*.h5
+.DS_Store
